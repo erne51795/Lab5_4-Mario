@@ -1,0 +1,1 @@
+﻿Creating Mario scenario using struct.
